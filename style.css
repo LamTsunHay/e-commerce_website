@@ -1,0 +1,136 @@
+.fa-star,
+.fa-star-half{
+    color: yellowgreen;
+    padding: 3% 0;
+}
+
+
+#cart_count{
+    text-align:center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+}
+
+.cart_icon{
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.cart-items+.cart-items{
+    padding: 1% 0;
+}
+
+.createAcc{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:500px;
+    height:700px;
+    background: rgb(201, 201, 201);
+    border-radius: 10px; 
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.createAcc, .resetPW, .login, h1{
+    text-align: center;
+    padding:0 0 20px 0;
+    border-bottom: 1px solid sliver;
+}
+
+.createAcc, .login, .resetPW, table{
+    padding: 0 80px;
+    box-sizing: border-box;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+td{
+    padding: 5px;
+}
+
+.button{
+    padding-top: 20px;
+}
+
+.login{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:500px;
+    height:300px;
+    background: rgb(201, 201, 201);
+    border-radius: 10px; 
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.resetPW{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:500px;
+    height:350px;
+    background: rgb(201, 201, 201);
+    border-radius: 10px;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background: url(bg.jpg) no-repeat;
+}
+
+.box{
+    width:600px;
+    height: 700;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 25px;
+    letter-spacing: 3px;
+    
+}
+
+.box-img{
+    border-radius:50%;
+    width:200px;
+    height:200px;
+}
+
+.box, h1{
+    font-size: 40px;
+    font-weight: 100;
+}
+#table1{
+    color: white;;
+}
+.top-border{
+    padding-top: 7%;;
+}
+section{
+
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.trytry{
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+}
+
+
